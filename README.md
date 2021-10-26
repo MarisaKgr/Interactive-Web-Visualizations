@@ -1,8 +1,8 @@
 # Interactive-Web-Visualizations
 
-##GitHub Pages:  https://marisakgr.github.io/Interactive-Web-Visualizations/
+## GitHub Pages:  https://marisakgr.github.io/Interactive-Web-Visualizations/
 
-##Plot.ly Homework - Belly Button Biodiversity
+## Plot.ly Homework - Belly Button Biodiversity
 Step 1: Plotly:
 
 1. Use the D3 library to read in samples.json.
@@ -20,11 +20,11 @@ Step 1: Plotly:
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 6. Update all of the plots any time that a new sample is selected.
 
-##Advanced Challenge Assignment (Optional)
+## Advanced Challenge Assignment (Optional)
 The following task is advanced and therefore optional.
 Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
 You will need to modify the example gauge code to account for values ranging from 0 through 9.
 Update the chart whenever a new sample is selected.
 
-##Deployment
+## Deployment
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
